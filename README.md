@@ -1,1 +1,1 @@
-# genetic-algorithms-for-maze-traversal-bot
+# Genetic Algorithms for Maze Traversal Bot
